@@ -1,0 +1,17 @@
+{
+  "name": "facebook-api",
+  "main": "facebook-api.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "facebook",
+    "api"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/FrontendWTF/facebook-api",
+  "dependencies": {
+    "facebook": "FrontendWTF/facebook#~0.1.0"
+  }
+}
